@@ -1,2 +1,2 @@
 print("hello world rama1")
-print("Iniico del programa")
+print("Iniico del programa qweqwe")
